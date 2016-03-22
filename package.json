@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.controller.js",
   "scripts": {
-    "serve": "node-sass styles.scss styles.css & serve",
+    "serve": "node-sass styles.scss styles.css -w & serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
